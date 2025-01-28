@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: cyan;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar"><br>
+  <a href="#Muffins"><b>Muffins</b></a>
+  <li>Blueberry Scone...Rs.50</li>
+  <li>Chocalate cake..Rs.100</li>
+  <li>Victoria cake....Rs.150</li>
+  <div>
+    <button>
+  <img src="img/muffins.jpg" alt="" /></button><br>
+  <br>
+  <a href="#Desserts"><b>Desserts</b></a>
+  <li>Tiramisu .....Rs.315</li>
+  <li>Dutch Truffle Gateu....Rs.305</li>
+  <li>Fudgy brownie pie...Rs.321</li>
+  <img src="img/desserts.jpg" alt="" /></button><br>
+  <br>
+  <a href="Coffee"><b>Coffee</b></a>
+  <li>Cold brew Black...Rs.280</li>
+  <li>Vanilla Sweet Cream Cold Brew...Rs.330</li>
+  <li>Java Chip....Rs.270</li>
+
+  
+  <img src="img/coffee.jpg" alt="" /></button><br>
+  </div> 
+</div>
+
+<center>
+<h1>Thank You for choosing our service..!!!</h1>
+<h3>Great Day....</h3>
+</center>
+<center>
+<button onclick="window.location.href = 'index.html'"><b>OK</b></button>
+</center>
+</body>
+</html>

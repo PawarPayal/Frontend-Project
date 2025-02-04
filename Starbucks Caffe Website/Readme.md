@@ -25,3 +25,8 @@ o to inspire and nurture the human spirit – one person, one cup, and one neigh
 o Our coffees come in three different roasts.  
 o Starbucks Blonde roast, the lightest, has a shorter roast time, lighter body and mellow flavors.  
 o Medium-roasted coffees are balanced with smooth and rich flavors, while dark-roasted coffees feature a fuller body and robust, bold flavors.  
+
+In conclusion, creating a Starbucks coffee website landing page using pure CSS and HTML is a fun and rewarding project for web designers of all skill levels.  
+By following our step-by-step tutorial, you'll be able to create a professional-looking website that is fully responsive, easy to navigate, and matches the Starbucks branding.   
+
+

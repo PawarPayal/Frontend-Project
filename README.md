@@ -1,2 +1,2 @@
 # Frontend-Project:  
-Project is in HTML,CSS,JS & PHP language.
+This project is in HTML,CSS,JS & PHP language.
